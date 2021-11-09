@@ -18,7 +18,7 @@ namespace DSCC.CW_1._00008056MVC.Controllers
         //Coontroller for passing the values that come from ASP.NET CORE Microservice API to VIEW
         //BaseURL address from which the DB values will be passed in a JSON format 
         //After deployment should be changed to hosting url
-        string Baseurl = "http://localhost:53468/";
+        string Baseurl = "http://dscccw100008056-dev.us-east-1.elasticbeanstalk.com/";
         private string urlStarter = "api/CDAlbum";
         // GET: ALbum
         public async Task<ActionResult> Index()

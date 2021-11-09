@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="F:\DSCC.CW_1.00008056\DSCC.CW_1.00008056MVC\DSCC.CW_1.00008056MVC\obj\Debug\Package\PackageTmp" />
+  <setAcl path="F:\DSCC.CW_1.00008056\DSCC.CW_1.00008056MVC\DSCC.CW_1.00008056MVC\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="F:\DSCC.CW_1.00008056\DSCC.CW_1.00008056MVC\DSCC.CW_1.00008056MVC\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
